@@ -3,13 +3,13 @@
 Aspiring Data Scientist/Data Engineer passionate about turning data into insights. Currently applying for the AWS AI & ML Scholarship.
 
 ## 🔧 Skills
-- Python (Pandas, Matplotlib)
-- SQL
+- Python (Pandas, Matplotlib, NumPy)
+- SQL(querying)
 - Data Visualization
 
 ## 📚 Projects
-- *Coming soon*: Library Management System (SQL)
-- *Coming soon*: Personal Task Manager (Python, SQLite)
+- Coming soon: Personal Finance Tracker (Python, SQLite, Matplotlib)
+- Planned: Library Management System, Task Manager
 
 ## 📫 Connect
 - LinkedIn: www.linkedin.com/in/tiiso-letsapa-664990209
