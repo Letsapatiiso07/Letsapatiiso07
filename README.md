@@ -9,7 +9,7 @@ Aspiring Data Scientist/Data Engineer passionate about turning data into insight
 
 ## 📚 Projects
 - Personal Finance Tracker (Python, SQLite, Matplotlib)
-- Planned: Library Management System, Task Manager
+- Crypto Chatbot (Python)
 
 ## 📫 Connect
 - LinkedIn: www.linkedin.com/in/tiiso-letsapa-664990209
