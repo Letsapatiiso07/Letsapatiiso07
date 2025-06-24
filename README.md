@@ -10,6 +10,7 @@ Aspiring Data Scientist/Data Engineer passionate about turning data into insight
 ## 📚 Projects
 - Personal Finance Tracker (Python, SQLite, Matplotlib)
 - Crypto Chatbot (Python)
+- real-time IoT sensor data ETL pipeline (Python3, Sqlite, HTML, CSS, Javascript, Python Standard Library)
 
 ## 📫 Connect
 - LinkedIn: www.linkedin.com/in/tiiso-letsapa-664990209
