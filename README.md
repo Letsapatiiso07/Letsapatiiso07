@@ -1,6 +1,6 @@
 # Hi, I'm Tiiso! 👋
 
-Aspiring Data Scientist/Data Engineer passionate about turning data into insights. Currently applying for the AWS AI & ML Scholarship.
+I’m a certified Data Engineer (DataCamp) with a Diploma in Financial Management, now specializing in Python-powered data solutions. My expertise lies in designing efficient ETL pipelines, automating financial data workflows, and building scalable infrastructure—bridging the gap between raw data and business impact.
 
 ## 🔧 Skills
 - Python (Pandas, Matplotlib, NumPy)
@@ -8,7 +8,6 @@ Aspiring Data Scientist/Data Engineer passionate about turning data into insight
 - Data Visualization
 
 ## 📚 Projects
-- Personal Finance Tracker (Python, SQLite, Matplotlib)
 - Crypto Chatbot (Python)
 - real-time IoT sensor data ETL pipeline (Python3, Sqlite, HTML, CSS, Javascript, Python Standard Library)
 
