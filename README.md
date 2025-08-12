@@ -1,5 +1,4 @@
 Hi, I'm Tiiso! 👋
-
 Data Engineer | Python Automation Specialist | Financial Data Expert
 
 Certified Data Engineer with dual qualifications in IT Automation (Google) and Financial Management, building robust data solutions that bridge technical systems and business value.
@@ -20,23 +19,24 @@ Cloud & Infrastructure
 [ Docker • GCP • Data Pipelines • System Design ]
 
 🚀 Highlight Projects
+📦 Inventory Management System
+Python • Scikit-learn • Simulation
+Optimizes stock levels using ML and dynamic programming:
+Forecasts demand with 92% accuracy (XGBoost, Prophet)
+Simulates 50+ inventory scenarios (Monte Carlo methods)
+Reduces carrying costs by 30% via EOQ modeling
+Repo Features: Demand forecasting • Dynamic inventory optimization • Scenario simulation
+
 🤖 Autonomous Crypto Analyst
 Python • APIs • Data Engineering
-
 Processes 100+ daily API calls to CoinGecko
 Reduced manual reporting time by 85%
 Interactive CLI with 15+ analytical commands
-
-▶ Features:
-  • Real-time price alerts
-  • Portfolio simulation
-  • Market sentiment analysis
+Features: Real-time price alerts • Portfolio simulation • Market sentiment analysis
 
 ⚡ IoT Data Factory
 Python • SQLite • JavaScript
-
-# Architecture:
-Sensors → Data Lake → ETL Pipeline → Dashboard
+Architecture: Sensors → Data Lake → ETL Pipeline → Dashboard
 Handles 1.2M+ sensor readings/hour
 Built-in anomaly detection (Z-score based)
 Self-contained web visualization
@@ -47,16 +47,7 @@ Automated 7 financial reporting workflows
 Reduced month-end closing from 3 days → 4 hours
 Data quality checks with 99.98% accuracy
 
-📊 Sales Analytics Pipeline
-Python • Pandas • Databricks
-Processed 1,000+ sales transactions with ETL pipeline
-Implemented data quality checks with 100/100 health score
-Generated 15+ business KPIs (e.g., $500K+ revenue analyzed)
-
-# Pipeline Overview:
-Data Generation → Quality Checks → ETL → Analytics → Export
-View on GitHub
-📈 Currently Scaling
+📊 Currently Scaling
 Building MLOps pipeline for real-time crypto predictions
 Developing serverless data ingestion on GCP
 Creating Python micro-courses for data engineers
@@ -66,5 +57,7 @@ Creating Python micro-courses for data engineers
 Automated my first financial model at 19
 Can debug Python while half-asleep
 Believe data pipelines should be as elegant as the insights they deliver
+
+
 
 
