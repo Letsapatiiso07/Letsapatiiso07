@@ -1,62 +1,139 @@
-Hi, I'm Tiiso! 👋
-Data Engineer | Python Automation Specialist | Financial Data Expert
+## 👋 Hi, I'm Tiiso!
 
-Certified Data Engineer with dual qualifications in IT Automation (Google) and Financial Management, building robust data solutions that bridge technical systems and business value.
+**Data Engineer | Python Automation Specialist | Financial Data Expert**  
+Certified in **IT Automation (Google)** and **Data Engineering (DataCamp)** with a diploma in **Financial Management**, I specialize in building data solutions that bridge technical systems and business value.
 
-🏆 Certifications
-Google IT Automation with Python Professional Certificate
-DataCamp Certified Data Engineer
-Diploma in Financial Management
+### 🏆 Certifications
+- 🧠 **Google IT Automation with Python Professional Certificate**
+- 📊 **DataCamp Certified Data Engineer**
+- 💼 **Diploma in Financial Management**
 
-🔧 Core Competencies
-Automation & Engineering
-[ Python • Airflow • ETL Design • CI/CD • Bash ]
+---
 
-Data & Analytics
-[ Pandas • SQL • Scikit-learn • TensorFlow • Data Visualization ]
+## 🏗️ Architecture Overview
 
-Cloud & Infrastructure
-[ Docker • GCP • Data Pipelines • System Design ]
+```text
+┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
+│   EventBridge   │───▶│   AWS Lambda    │───▶│   Amazon S3     │
+│  (Every 15min)  │    │  Data Ingestion │    │   Raw Storage   │
+└─────────────────┘    └─────────────────┘    └─────────────────┘
+                                │
+                                ▼
+                       ┌─────────────────┐    ┌─────────────────┐
+                       │   DynamoDB      │    │   CloudWatch    │
+                       │  Structured DB  │    │   Monitoring    │
+                       └─────────────────┘    └─────────────────┘
+```
 
-🚀 Highlight Projects
-📦 Inventory Management System
-Python • Scikit-learn • Simulation
-Optimizes stock levels using ML and dynamic programming:
-Forecasts demand with 92% accuracy (XGBoost, Prophet)
-Simulates 50+ inventory scenarios (Monte Carlo methods)
-Reduces carrying costs by 30% via EOQ modeling
-Repo Features: Demand forecasting • Dynamic inventory optimization • Scenario simulation
+---
 
-🤖 Autonomous Crypto Analyst
-Python • APIs • Data Engineering
-Processes 100+ daily API calls to CoinGecko
-Reduced manual reporting time by 85%
-Interactive CLI with 15+ analytical commands
-Features: Real-time price alerts • Portfolio simulation • Market sentiment analysis
+## 📊 Real-Time Data Collection
 
-⚡ IoT Data Factory
-Python • SQLite • JavaScript
-Architecture: Sensors → Data Lake → ETL Pipeline → Dashboard
-Handles 1.2M+ sensor readings/hour
-Built-in anomaly detection (Z-score based)
-Self-contained web visualization
+- **Cities Monitored**: Pretoria, Cape Town, Johannesburg, Durban
+- **Collection Frequency**: Every 15 minutes (96 data points/day per city)
+- **Data Metrics**: Temperature, Humidity, Pressure, Weather Conditions, Wind Speed
 
-🏦 Financial Data Accelerator
-Airflow • Pandas • PostgreSQL
-Automated 7 financial reporting workflows
-Reduced month-end closing from 3 days → 4 hours
-Data quality checks with 99.98% accuracy
+---
 
-📊 Currently Scaling
-Building MLOps pipeline for real-time crypto predictions
-Developing serverless data ingestion on GCP
-Creating Python micro-courses for data engineers
+## ⚡ Key Features
 
-📫 Let's Build Together
-⚡ Tiiso Trivia
-Automated my first financial model at 19
-Can debug Python while half-asleep
-Believe data pipelines should be as elegant as the insights they deliver
+✅ **Fully Automated ETL Pipeline** – Zero manual intervention  
+✅ **Real-Time Processing** – Live data ingestion from OpenWeatherMap  
+✅ **Dual Storage Strategy** – Raw JSON (S3) + Structured data (DynamoDB)  
+✅ **Error Handling & Logging** – Integrated with CloudWatch  
+✅ **Scalable Architecture** – Serverless, event-driven, auto-scaling  
+✅ **Cost Optimized** – Runs fully within AWS Free Tier  
+
+---
+
+## 🛠️ Tech Stack
+
+| Component    | Technology             | Purpose                      |
+|--------------|------------------------|------------------------------|
+| Compute      | AWS Lambda (Python 3.9) | Data processing & ETL        |
+| Storage      | Amazon S3              | Raw data lake                |
+| Database     | DynamoDB               | Real-time structured queries |
+| Scheduler    | EventBridge            | Automated 15-min triggers    |
+| Monitoring   | CloudWatch             | Logs & error tracking        |
+| API Source   | OpenWeatherMap         | Weather data ingestion       |
+
+---
+
+## 🧪 Sample Output
+
+```json
+{
+  "city": "Pretoria",
+  "temp": 17.44,
+  "humidity": 65,
+  "pressure": 1013.25,
+  "wind_speed": 3.2,
+  "weather": "Clear",
+  "description": "clear sky",
+  "timestamp": "2025-08-17T16:40:41.346533"
+}
+```
+
+---
+
+## 📁 Project Structure
+
+```
+aws-weather-pipeline/
+├── lambda_functions/
+│   └── weather_ingestion/
+│       ├── lambda_function.py
+│       └── requirements.txt
+├── data_samples/
+│   └── sample_s3_data.json
+├── deployment/
+├── monitoring/
+├── architecture/
+├── docs/
+└── README.md
+```
+
+---
+
+## 📈 Related Projects
+
+### 📦 **Inventory Optimization Engine**
+> ML-powered system using XGBoost and Prophet  
+> 📉 Reduced inventory costs by 30% via EOQ modeling
+
+### 🤖 **Autonomous Crypto Analyst**
+> CLI-driven market analyzer with CoinGecko API  
+> ⏱️ Reduced reporting time by 85%
+
+### ⚡ **IoT Data Factory**
+> Real-time ETL for 1.2M+ sensor readings/hour  
+> 📊 Web dashboard with built-in anomaly detection
+
+### 🏦 **Financial Data Accelerator**
+> Automated 7 financial workflows using Airflow & Pandas  
+> 📅 Month-end close reduced from 3 days to 4 hours
+
+---
+
+## 📫 Let's Build Together
+
+```yaml
+name: Tiiso Letsapa
+title: Data Engineer | Python Automation Specialist
+email: letsapamyron07@gmail.com
+location: South Africa
+linkedin: https://linkedin.com/in/tiiso-letsapa-664990209
+github: https://github.com/Letsapatiiso07
+```
+
+### ⚡ Fun Facts
+- Automated my first financial model at 19
+- Can debug Python while half-asleep 😴🐍
+- Believe data pipelines should be as elegant as the insights they deliver
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
 
 
 
