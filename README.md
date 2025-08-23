@@ -1,139 +1,50 @@
-## 👋 Hi, I'm Tiiso!
+# 👋 Hi, I'm Tiiso Letsapa  
 
-**Data Engineer | Python Automation Specialist | Financial Data Expert**  
-Certified in **IT Automation (Google)** and **Data Engineering (DataCamp)** with a diploma in **Financial Management**, I specialize in building data solutions that bridge technical systems and business value.
-
-### 🏆 Certifications
-- 🧠 **Google IT Automation with Python Professional Certificate**
-- 📊 **DataCamp Certified Data Engineer**
-- 💼 **Diploma in Financial Management**
+🚀 **Data Engineer | AI Engineer | Cloud Builder**  
+Passionate about building **scalable data platforms, real-time pipelines, and AI-powered dashboards**.  
+Currently working on projects that combine **DataOps + MLOps + Cloud** to deliver reliable and cost-efficient solutions.  
 
 ---
 
-## 🏗️ Architecture Overview
-
-```text
-┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│   EventBridge   │───▶│   AWS Lambda    │───▶│   Amazon S3     │
-│  (Every 15min)  │    │  Data Ingestion │    │   Raw Storage   │
-└─────────────────┘    └─────────────────┘    └─────────────────┘
-                                │
-                                ▼
-                       ┌─────────────────┐    ┌─────────────────┐
-                       │   DynamoDB      │    │   CloudWatch    │
-                       │  Structured DB  │    │   Monitoring    │
-                       └─────────────────┘    └─────────────────┘
-```
+## 🔥 About Me
+- 🎓 Certified **Data Engineer** (DataCamp, Google IT Automation with Python)  
+- ☁️ Cloud-native pipelines on **AWS, GCP, Azure**  
+- 🧑‍💻 Skilled in **Python, SQL, TypeScript, React, Airflow, TensorFlow**  
+- 📊 Strong in **ETL, data modeling, monitoring, and automation**  
+- 🔭 Exploring **MLOps, AI dashboards, and serverless architectures**  
 
 ---
 
-## 📊 Real-Time Data Collection
+## 🚀 Featured Project
+### [DataOps Studio](https://letsapatiiso07.github.io/dataops-studio)  
+A professional multi-page **DataOps & MLOps dashboard** built with:  
+React + TypeScript + Tailwind + Recharts + GitHub Actions  
 
-- **Cities Monitored**: Pretoria, Cape Town, Johannesburg, Durban
-- **Collection Frequency**: Every 15 minutes (96 data points/day per city)
-- **Data Metrics**: Temperature, Humidity, Pressure, Weather Conditions, Wind Speed
+- 📊 Charts: pipeline latency, dataset sizes, model accuracy  
+- 🌙 Dark mode toggle  
+- 🔍 Searchable datasets catalog with PII flags  
+- ⚡ Deployed live with **GitHub Pages**  
 
----
-
-## ⚡ Key Features
-
-✅ **Fully Automated ETL Pipeline** – Zero manual intervention  
-✅ **Real-Time Processing** – Live data ingestion from OpenWeatherMap  
-✅ **Dual Storage Strategy** – Raw JSON (S3) + Structured data (DynamoDB)  
-✅ **Error Handling & Logging** – Integrated with CloudWatch  
-✅ **Scalable Architecture** – Serverless, event-driven, auto-scaling  
-✅ **Cost Optimized** – Runs fully within AWS Free Tier  
+![DataOps Studio Screenshot](./docs/screenshots/dashboard.png)  
 
 ---
 
 ## 🛠️ Tech Stack
-
-| Component    | Technology             | Purpose                      |
-|--------------|------------------------|------------------------------|
-| Compute      | AWS Lambda (Python 3.9) | Data processing & ETL        |
-| Storage      | Amazon S3              | Raw data lake                |
-| Database     | DynamoDB               | Real-time structured queries |
-| Scheduler    | EventBridge            | Automated 15-min triggers    |
-| Monitoring   | CloudWatch             | Logs & error tracking        |
-| API Source   | OpenWeatherMap         | Weather data ingestion       |
+**Languages:** Python, SQL, TypeScript, Bash  
+**Frameworks:** React, Airflow, TensorFlow, Scikit-Learn  
+**Cloud:** AWS (Lambda, S3, DynamoDB, EventBridge), GCP, Azure  
+**Tools:** Docker, GitHub Actions, Recharts, Pandas, NumPy  
 
 ---
 
-## 🧪 Sample Output
-
-```json
-{
-  "city": "Pretoria",
-  "temp": 17.44,
-  "humidity": 65,
-  "pressure": 1013.25,
-  "wind_speed": 3.2,
-  "weather": "Clear",
-  "description": "clear sky",
-  "timestamp": "2025-08-17T16:40:41.346533"
-}
-```
+## 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/tiiso-letsapa-664990209)  
+- [GitHub](https://github.com/Letsapatiiso07)  
 
 ---
 
-## 📁 Project Structure
+⭐️ _Always open to opportunities in **Data Engineering | AI Engineering | Cloud Engineering**_
 
-```
-aws-weather-pipeline/
-├── lambda_functions/
-│   └── weather_ingestion/
-│       ├── lambda_function.py
-│       └── requirements.txt
-├── data_samples/
-│   └── sample_s3_data.json
-├── deployment/
-├── monitoring/
-├── architecture/
-├── docs/
-└── README.md
-```
-
----
-
-## 📈 Related Projects
-
-### 📦 **Inventory Optimization Engine**
-> ML-powered system using XGBoost and Prophet  
-> 📉 Reduced inventory costs by 30% via EOQ modeling
-
-### 🤖 **Autonomous Crypto Analyst**
-> CLI-driven market analyzer with CoinGecko API  
-> ⏱️ Reduced reporting time by 85%
-
-### ⚡ **IoT Data Factory**
-> Real-time ETL for 1.2M+ sensor readings/hour  
-> 📊 Web dashboard with built-in anomaly detection
-
-### 🏦 **Financial Data Accelerator**
-> Automated 7 financial workflows using Airflow & Pandas  
-> 📅 Month-end close reduced from 3 days to 4 hours
-
----
-
-## 📫 Let's Build Together
-
-```yaml
-name: Tiiso Letsapa
-title: Data Engineer | Python Automation Specialist
-email: letsapamyron07@gmail.com
-location: South Africa
-linkedin: https://linkedin.com/in/tiiso-letsapa-664990209
-github: https://github.com/Letsapatiiso07
-```
-
-### ⚡ Fun Facts
-- Automated my first financial model at 19
-- Can debug Python while half-asleep 😴🐍
-- Believe data pipelines should be as elegant as the insights they deliver
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 
 
