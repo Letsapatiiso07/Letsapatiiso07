@@ -44,9 +44,7 @@ Airflow • Pandas • Scikit-Learn • TensorFlow
 
 ## 🚀 Featured Project
 
-### [DataOps Studio - Data Engineering Portfolio Dashboard](https://letsapatiiso07.github.io/dataops-studio)
-
-**[🔥 Live Demo](https://letsapatiiso07.github.io/dataops-studio)** | **[📋 Source Code](https://github.com/Letsapatiiso07/dataops-studio)**
+### [DataOps Studio - Data Engineering Portfolio Dashboard](https://letsapatiiso07.github/dataops-studio)
 
 **A modern, interactive dashboard showcasing Data Engineering & MLOps capabilities**
 
