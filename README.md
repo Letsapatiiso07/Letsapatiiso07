@@ -10,7 +10,7 @@
 
 ## 🎯 About Me
 
-**Detail-oriented Data Engineer** with **2+ years** of experience architecting **real-time ETL pipelines**, **cloud-native data solutions**, and **scalable automation systems**. 
+**Detail-oriented Data Engineer** with **3+ years** of experience architecting **real-time ETL pipelines**, **cloud-native data solutions**, and **scalable automation systems**. 
 
 - 🔧 **AWS-certified** expert specializing in **serverless data architectures**
 - 📊 Built **6+ production data pipelines** processing millions of records daily
