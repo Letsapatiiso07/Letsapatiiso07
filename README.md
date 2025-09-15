@@ -3,6 +3,11 @@
 🚀 **Data Engineer | AI Engineer | Cloud Engineer | MLOps Enthusiast**  
 Building scalable data pipelines and cloud-native solutions that turn raw data into business insights.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/tiiso-letsapa-664990209)
+[![GitHub](https://img.shields.io/badge/GitHub-Letsapatiiso07-black?logo=github)](https://github.com/Letsapatiiso07)
+[![Email](https://img.shields.io/badge/Email-Letsapamyron07%40gmail.com-red?logo=gmail)]
+
+
 ## 🎯 About Me
 
 Detail-oriented **Data Engineer** with 3+ years of experience architecting real-time ETL pipelines, cloud-native data solutions, and scalable automation systems.
