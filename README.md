@@ -64,8 +64,10 @@ A modern, interactive dashboard showcasing **Data Engineering & MLOps** capabili
 │ • IoT Sensors │ │ • EventBridge │ │ • DynamoDB │
 │ • Databases │ │ • Error Handling │ │ • PostgreSQL │
 └─────────────────┘ └──────────────────┘ └─────────────────┘
+
 │
 ▼
+
 ┌─────────────────┐ ┌──────────────────┐ ┌─────────────────┐
 │ Monitoring │◀───│ Processing │───▶│ Visualization │
 │ │ │ │ │ │
