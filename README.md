@@ -64,10 +64,8 @@ A modern, interactive dashboard showcasing **Data Engineering & MLOps** capabili
 │ • IoT Sensors │ │ • EventBridge │ │ • DynamoDB │
 │ • Databases │ │ • Error Handling │ │ • PostgreSQL │
 └─────────────────┘ └──────────────────┘ └─────────────────┘
-
 │
 ▼
-
 ┌─────────────────┐ ┌──────────────────┐ ┌─────────────────┐
 │ Monitoring │◀───│ Processing │───▶│ Visualization │
 │ │ │ │ │ │
@@ -108,15 +106,13 @@ A modern, interactive dashboard showcasing **Data Engineering & MLOps** capabili
 
 ## 🤝 Let’s Connect  
 
-💌 [Letsapamyron07@gmail.com](mailto:Letsapamyron07@gmail.com)  
+💌 [Letsapamyron07@gmail.com] 
 🔗 [LinkedIn](https://linkedin.com/in/tiiso-letsapa-664990209)  
 🐙 [GitHub](https://github.com/Letsapatiiso07)
 
 ---
 
 ⭐️ _“Let’s connect and build something amazing together!”_ 🚀
-
-
 
 
 
