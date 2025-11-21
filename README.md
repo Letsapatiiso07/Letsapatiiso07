@@ -4,7 +4,7 @@
 
 *Building intelligent data systems that bridge cloud infrastructure, machine learning, and healthcare innovation*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tiiso-letsapa-664990209) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Letsapatiiso07) [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:Letsapamyron07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tiiso-letsapa-664990209) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Letsapatiiso07) [![Email](https://img.shields.io/badge/Email-Contact-red)](Letsapamyron07@gmail.com)
 
 ---
 
