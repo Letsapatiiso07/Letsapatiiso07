@@ -1,6 +1,6 @@
 # 👨‍💻 Tiiso Letsapa
 
-**Data Engineer | AI/ML Engineer | Cloud Architect**
+**Data Engineer | AI/ML Engineer**
 
 *Building intelligent data systems that bridge cloud infrastructure, machine learning, and healthcare innovation*
 
