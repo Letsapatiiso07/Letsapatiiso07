@@ -1,6 +1,6 @@
 # 👨‍💻 Tiiso Letsapa
 
-**Data Engineer | AI/ML Engineer**
+**Data Engineer | AI ENGINEER | ML Engineer**
 
 *Building intelligent data systems that bridge cloud infrastructure, machine learning, and healthcare innovation*
 
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a **data engineer and AI specialist** based in Cape Town, South Africa, with a passion for architecting scalable data pipelines and deploying production-grade machine learning systems. With 3+ years of hands-on experience, I've delivered solutions that process millions of records daily while maintaining 99.5%+ reliability and reducing operational costs by up to 85%.
+I'm a **data engineer and machine learning specialist** based in Pretoria, South Africa, with a passion for architecting scalable data pipelines and deploying production-grade machine learning systems. With 3+ years of hands-on experience, I've delivered solutions that process millions of records daily while maintaining 99.5%+ reliability and reducing operational costs by up to 85%.
 
 **What drives me:** Turning complex data challenges into elegant, automated solutions that create real business value.
 
@@ -27,7 +27,8 @@ I'm a **data engineer and AI specialist** based in Cape Town, South Africa, with
 
 | Certification | Provider | Year |
 |--------------|----------|------|
-| Data Engineer Professional | DataCamp | 2025 |
+| Data Engineer Professional | DataCamp | 2025
+| Associate Data Engineer| DataCamp | 2025
 | IT Automation with Python | Google | 2025 |
 | SQL Associate | DataCamp | 2025 |
 | Machine Learning Engineer | Datacamp | 2025
@@ -207,4 +208,4 @@ I'm always excited to collaborate on interesting data engineering, ML, or cloud 
 
 ---
 
-*Based in Cape Town, South Africa 🇿🇦 | Open to remote opportunities worldwide 🌍*
+*Based in Pretoria, South Africa 🇿🇦 | Open to remote opportunities worldwide 🌍*
