@@ -29,9 +29,12 @@ I'm a **data engineer and machine learning specialist** based in Pretoria, South
 |--------------|----------|------|
 | Data Engineer Professional | DataCamp | 2025
 | Associate Data Engineer| DataCamp | 2025
-| IT Automation with Python | Google | 2025 |
 | SQL Associate | DataCamp | 2025 |
-| Machine Learning Engineer | Datacamp | 2025
+| Machine Learning Engineer | DataCamp | 2025
+| AI Engineer For Data Scientists Associate | DataCamp | 2025
+| IT Automation with Python | Google | 2025 
+| Azure Solutions Architect - AZ-305 Official Training | Microsoft | 2025
+
 
 ---
 
