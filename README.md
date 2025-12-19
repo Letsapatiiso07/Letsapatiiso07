@@ -28,6 +28,7 @@ I'm a **data engineer and machine learning specialist** based in Pretoria, South
 | AI Engineer For Data Scientists Associate | DataCamp | 2025 |
 | IT Automation with Python | Google | 2025 |
 | Azure Solutions Architect - AZ-305 Official Training | Microsoft | 2025 |
+| Azure AI Engineer Associate | Microsoft | 2025 |
 
 ---
 ## 🛠️ Technical Skills
