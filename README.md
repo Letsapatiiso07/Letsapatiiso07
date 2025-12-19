@@ -1,16 +1,11 @@
 # 👨‍💻 Tiiso Letsapa
-
-**Data Engineer | AI ENGINEER | ML Engineer**
-
-*Building intelligent data systems that bridge cloud infrastructure, machine learning, and healthcare innovation*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tiiso-letsapa-664990209) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Letsapatiiso07) [![Email](https://img.shields.io/badge/Email-Contact-red)](Letsapamyron07@gmail.com)
+**Data Engineer | AI ENGINEER | ML Engineer**  
+*Building intelligent data systems that bridge cloud infrastructure, machine learning, and healthcare innovation*  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tiiso-letsapa-664990209) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Letsapatiiso07) [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:Letsapamyron07@gmail.com)
 
 ---
-
 ## 🚀 About Me
-
-I'm a **data engineer and machine learning specialist** based in Pretoria, South Africa, with a passion for architecting scalable data pipelines and deploying production-grade machine learning systems. With 3+ years of hands-on experience, I've delivered solutions that process millions of records daily while maintaining 99.5%+ reliability and reducing operational costs by up to 85%.
+I'm a **data engineer and machine learning specialist** based in Pretoria, South Africa, with a passion for architecting scalable data pipelines and deploying production-grade machine learning systems. With 3+ years of hands-on experience, I've delivered solutions that process millions of records daily while maintaining 99.5%+ reliability and reducing operational costs by up to 85%.  
 
 **What drives me:** Turning complex data challenges into elegant, automated solutions that create real business value.
 
@@ -22,24 +17,20 @@ I'm a **data engineer and machine learning specialist** based in Pretoria, South
 - ⚡ **99.5% uptime** through robust monitoring and error handling
 
 ---
-
-## 🏆 Latest Certifications
-
-| Certification | Provider | Year |
-|--------------|----------|------|
-| Data Engineer Professional | DataCamp | 2025
-| Associate Data Engineer| DataCamp | 2025
+## 🏆 Latest Certifications & Education
+| Certification / Qualification | Provider / Institution | Year |
+|-------------------------------|------------------------|------|
+| Diploma in Financial Management | Regent Business School | 2025 |
+| Data Engineer Professional | DataCamp | 2025 |
+| Associate Data Engineer | DataCamp | 2025 |
 | SQL Associate | DataCamp | 2025 |
-| Machine Learning Engineer | DataCamp | 2025
-| AI Engineer For Data Scientists Associate | DataCamp | 2025
-| IT Automation with Python | Google | 2025 
-| Azure Solutions Architect - AZ-305 Official Training | Microsoft | 2025
-
+| Machine Learning Engineer | DataCamp | 2025 |
+| AI Engineer For Data Scientists Associate | DataCamp | 2025 |
+| IT Automation with Python | Google | 2025 |
+| Azure Solutions Architect - AZ-305 Official Training | Microsoft | 2025 |
 
 ---
-
 ## 🛠️ Technical Skills
-
 ```python
 skills = {
     "languages": ["Python", "SQL", "TypeScript", "JavaScript", "Bash"],
@@ -52,94 +43,74 @@ skills = {
 ```
 
 ---
-
 ## 🌟 Featured Projects
+<img width="800" height="566" alt="image" src="https://github.com/user-attachments/assets/ce8ca65b-9a74-4d51-86e5-db629e13c904" />
+
+### 💳 Credit Risk Assessment Model
+*Fintech | Machine Learning | Risk Modeling | XGBoost*  
+End-to-end machine learning system for predicting loan default risk using borrower financial and demographic data.  
+
+**🎯 Key Features & Results:**
+- **AUC-ROC: 0.945** (excellent predictive performance)
+- Comprehensive EDA, outlier handling, and feature engineering (e.g., debt-to-income ratio)
+- Model comparison: XGBoost outperformed Logistic Regression and KNN
+- Interpretable insights via feature importance and visualizations
+- Production-ready pipeline with preprocessing and evaluation metrics
+
+**📊 Technical Highlights:**
+```python
+# Top predictive features identified:
+- Loan grade & interest rate (highest risk drivers)
+- Debt-to-income ratio (engineered feature)
+- Home ownership status (renters higher risk)
+- Loan amount and percent income
+```
+**💡 Why It Matters:**
+- Demonstrates real-world fintech application of ML for credit scoring
+- Handles class imbalance and provides actionable risk insights
+- Strong addition to financial domain expertise (complements Diploma in Financial Management)
+
+**🔗 Tech Stack:** Python • Pandas • Scikit-learn • XGBoost • Matplotlib • Seaborn  
+[View Project →](https://github.com/Letsapatiiso07/Credit-Risk-Assessment) *(Create this repo with your notebook, README, and model!)*
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/180d29d4-a3c6-487a-9054-7c3b0ccd27fb" />
+<img width="550" height="313" alt="image" src="https://github.com/user-attachments/assets/bcafa742-6e43-4823-815c-ea58da1a3d61" />
+<img width="850" height="567" alt="image" src="https://github.com/user-attachments/assets/3a89b130-1871-4610-af2a-06c6da3e0f91" />
+
+
 
 ### 🏥 Medical Image Analysis with Deep Learning
-*Healthcare AI | Computer Vision | Transfer Learning*
-
-A production-ready medical imaging classification system leveraging CNNs and transfer learning for diagnostic assistance.
-
+*Healthcare AI | Computer Vision | Transfer Learning*  
+A production-ready medical imaging classification system leveraging CNNs and transfer learning for diagnostic assistance.  
 **🎯 Key Features:**
 - Multiple architectures: Custom CNN, VGG16, ResNet50, InceptionV3
 - Synthetic medical image generation (X-Ray, Brain MRI)
 - Grad-CAM visualization for model interpretability
 - Complete training pipeline with data augmentation
-- Real-time prediction with confidence scores
+- Real-time prediction with confidence scores  
 
-**📊 Technical Highlights:**
-```python
-# Architecture includes:
-- 4 convolutional blocks with batch normalization
-- Transfer learning with frozen base layers
-- Custom classification heads optimized for medical imaging
-- Early stopping and learning rate scheduling
-- Comprehensive evaluation metrics (Accuracy, Precision, Recall, AUC-ROC)
-```
-
-**💡 Why It Matters:**
-- Demonstrates AI application in healthcare
-- Includes interpretability tools crucial for medical AI
-- Educational framework for learning medical imaging
-- Extensible architecture for real-world datasets
-
-**🔗 Tech Stack:** TensorFlow • Keras • OpenCV • Scikit-learn • Matplotlib • Seaborn
-
+**🔗 Tech Stack:** TensorFlow • Keras • OpenCV • Scikit-learn • Matplotlib • Seaborn  
 [View Project →](https://github.com/Letsapatiiso07/medical-image-analysis)
 
----
-
 ### 🏎️ F1 Race Winner Prediction System
-*Machine Learning | Sports Analytics | Feature Engineering*
-
-End-to-end ML system predicting Formula 1 race outcomes with 90% accuracy.
-
+*Machine Learning | Sports Analytics | Feature Engineering*  
+End-to-end ML system predicting Formula 1 race outcomes with 90% accuracy.  
 **🎯 Results:**
 - **90% accuracy** on race winner predictions
-- **95%+ accuracy** on podium predictions
-- **1,800+ lines** of production Python code
-- Real-time predictions with win probability analysis
+- **95%+ accuracy** on podium predictions  
 
-**🔍 Key Insights:**
-- Grid position accounts for 40% of predictive power
-- Recent form (last 3 races) significantly improves accuracy
-- Circuit characteristics create driver-specific advantages
-- Temporal data splitting prevents model overfitting
-
-**💻 Features Engineered:**
-```python
-features = [
-    "driver_recent_form_last_3_races",
-    "driver_recent_form_last_5_races", 
-    "team_performance_metrics",
-    "circuit_specific_history",
-    "qualifying_position_impact",
-    "season_championship_standings"
-]
-```
-
-**🔗 Tech Stack:** Python • XGBoost • FastF1 API • Pandas • Scikit-learn • Matplotlib
-
----
+**🔗 Tech Stack:** Python • XGBoost • FastF1 API • Pandas • Scikit-learn • Matplotlib  
 
 ### 📊 DataOps Studio
-*Interactive Dashboard | Modern UI | Real-time Monitoring*
-
-A modern, interactive dashboard showcasing Data Engineering & MLOps capabilities.
-
+*Interactive Dashboard | Modern UI | Real-time Monitoring*  
+A modern, interactive dashboard showcasing Data Engineering & MLOps capabilities.  
 **✨ Features:**
-- 📊 Interactive data visualizations (pipeline metrics, dataset analytics)
+- 📊 Interactive data visualizations
 - 🌙 Dark mode with responsive design
-- 🔍 Smart search and filtering with PII classification
-- 📈 Real-time status monitoring
-- ⚡ Automated CI/CD with zero-downtime deployments
+- ⚡ Automated CI/CD  
 
 **🔗 Tech Stack:** React • TypeScript • TailwindCSS • Recharts • Vite • GitHub Actions
 
----
-
 ### ⚡ Other Production Systems
-
 | Project | Tech Stack | Impact |
 |---------|-----------|--------|
 | **Weather Analytics Pipeline** | AWS Lambda, S3, DynamoDB | 99.5% uptime, <$0.10/month |
@@ -149,27 +120,22 @@ A modern, interactive dashboard showcasing Data Engineering & MLOps capabilities
 | **Financial Automation** | Airflow, Pandas, PostgreSQL | 3 days → 4 hours |
 
 ---
-
 ## 🏗️ System Architecture Philosophy
-
 I design cloud-native, serverless-first, and event-driven architectures for maximum scalability and cost efficiency:
-
 ```
-┌─────────────────────┐    ┌──────────────────────┐    ┌─────────────────────┐
-│   📊 Data Sources   │───▶│   🔄 Ingestion Layer │───▶│   🏗️ Processing     │
-│                     │    │                      │    │                     │
-│ • REST/GraphQL APIs │    │ • AWS API Gateway    │    │ • AWS Lambda        │
-│ • IoT Sensors/MQTT  │    │ • Amazon Kinesis     │    │ • Step Functions    │
-│ • Database CDC      │    │ • AWS EventBridge    │    │ • Glue ETL Jobs     │
-│ • File Uploads      │    │ • SQS/SNS Queues     │    │ • Error Handling    │
-│ • Streaming Data    │    │ • Scheduled Triggers │    │ • Dead Letter Queue │
-└─────────────────────┘    └──────────────────────┘    └─────────────────────┘
+┌─────────────────────┐ ┌──────────────────────┐ ┌─────────────────────┐
+│ 📊 Data Sources │───▶│ 🔄 Ingestion Layer │───▶│ 🏗️ Processing │
+│                     │   │                      │   │                     │
+│ • REST/GraphQL APIs │   │ • AWS API Gateway    │   │ • AWS Lambda        │
+│ • IoT Sensors/MQTT  │   │ • Amazon Kinesis     │   │ • Step Functions    │
+│ • Database CDC      │   │ • AWS EventBridge    │   │ • Glue ETL Jobs     │
+│ • File Uploads      │   │ • SQS/SNS Queues     │   │ • Error Handling    │
+│ • Streaming Data    │   │ • Scheduled Triggers │   │ • Dead Letter Queue │
+└─────────────────────┘ └──────────────────────┘ └─────────────────────┘
 ```
 
 ---
-
 ## 📊 Performance Metrics
-
 | Metric | Target | Achieved |
 |--------|--------|----------|
 | Pipeline Uptime | 99.9% | 99.5% ✅ |
@@ -178,37 +144,22 @@ I design cloud-native, serverless-first, and event-driven architectures for maxi
 | Error Rate | <0.1% | <0.5% 🎯 |
 
 ---
-
 ## 💡 What Makes Me Tick
-
-🌍 **Local meets global:** Combining South African weather insights with cloud-scale infrastructure
-
-🏎️ **Passion-driven projects:** Built an F1 winner predictor because why not merge hobbies with tech?
-
-⚡ **Serverless advocate:** If it can run without a server, I'm interested
-
-🏥 **Healthcare AI:** Applying ML to medical imaging for diagnostic assistance
-
-📚 **Continuous learner:** Currently exploring real-time streaming architectures and advanced MLOps
-
+🌍 **Local meets global:** Combining South African insights with cloud-scale infrastructure  
+🏎️ **Passion-driven projects:** Built an F1 predictor merging hobbies with tech  
+⚡ **Serverless advocate:** If it can run without a server, I'm interested  
+🏥 **Healthcare AI:** Applying ML to medical imaging  
+💳 **Fintech & Finance:** Leveraging financial management knowledge with ML for credit risk modeling  
+📚 **Continuous learner:** Exploring real-time streaming and advanced MLOps  
 🎯 **My goal:** Build data systems so reliable, they become invisible
 
 ---
-
 ## 🤝 Let's Connect
-
-I'm always excited to collaborate on interesting data engineering, ML, or cloud architecture projects. Whether you're looking to build scalable data pipelines, deploy AI models, or optimize cloud infrastructure—let's talk!
-
-📧 **Email:** [Letsapamyron07@gmail.com](Letsapamyron07@gmail.com)
-
-🔗 **LinkedIn:** [linkedin.com/in/tiiso-letsapa-664990209](https://www.linkedin.com/in/tiiso-letsapa-664990209)
-
+I'm always excited to collaborate on data engineering, ML, fintech, or cloud projects. Let's talk!  
+📧 **Email:** [Letsapamyron07@gmail.com](mailto:Letsapamyron07@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/tiiso-letsapa-664990209](https://www.linkedin.com/in/tiiso-letsapa-664990209)  
 💻 **GitHub:** [github.com/Letsapatiiso07](https://github.com/Letsapatiiso07)
 
 ---
-
-⭐️ *"Building intelligent systems that turn data into decisions"* 🚀
-
----
-
+⭐️ *"Building intelligent systems that turn data into decisions"* 🚀  
 *Based in Pretoria, South Africa 🇿🇦 | Open to remote opportunities worldwide 🌍*
