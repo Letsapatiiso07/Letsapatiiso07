@@ -71,7 +71,7 @@ End-to-end machine learning system for predicting loan default risk using borrow
 - Strong addition to financial domain expertise (complements Diploma in Financial Management)
 
 **🔗 Tech Stack:** Python • Pandas • Scikit-learn • XGBoost • Matplotlib • Seaborn  
-[View Project →](https://github.com/Letsapatiiso07/Credit-Risk-Assessment) *(Create this repo with your notebook, README, and model!)*
+[View Project →](https://github.com/Letsapatiiso07/Credit-Risk-Assessment)
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/180d29d4-a3c6-487a-9054-7c3b0ccd27fb" />
 <img width="550" height="313" alt="image" src="https://github.com/user-attachments/assets/bcafa742-6e43-4823-815c-ea58da1a3d61" />
 <img width="850" height="567" alt="image" src="https://github.com/user-attachments/assets/3a89b130-1871-4610-af2a-06c6da3e0f91" />
