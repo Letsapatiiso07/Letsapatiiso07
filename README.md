@@ -10,11 +10,11 @@ I'm a **data engineer and machine learning specialist** based in Pretoria, South
 **What drives me:** Turning complex data challenges into elegant, automated solutions that create real business value.
 
 ### 🎯 Quick Stats
-- 📊 **6+ production pipelines** processing 1.2M+ records/hour
-- ☁️ **AWS-certified** cloud architect specializing in serverless architectures
-- 🤖 **90% accuracy** ML models in production
-- 💰 **30-85% cost reduction** across multiple projects
-- ⚡ **99.5% uptime** through robust monitoring and error handling
+- **6+ production pipelines** processing 1.2M+ records/hour
+- **AWS-certified** cloud architect specializing in serverless architectures
+- **90% accuracy** ML models in production
+- **30-85% cost reduction** across multiple projects
+- **99.5% uptime** through robust monitoring and error handling
 
 ---
 ## 🏆 Latest Certifications & Education
@@ -147,13 +147,13 @@ I design cloud-native, serverless-first, and event-driven architectures for maxi
 
 ---
 ## 💡 What Makes Me Tick
-🌍 **Local meets global:** Combining South African insights with cloud-scale infrastructure  
-🏎️ **Passion-driven projects:** Built an F1 predictor merging hobbies with tech  
-⚡ **Serverless advocate:** If it can run without a server, I'm interested  
-🏥 **Healthcare AI:** Applying ML to medical imaging  
-💳 **Fintech & Finance:** Leveraging financial management knowledge with ML for credit risk modeling  
-📚 **Continuous learner:** Exploring real-time streaming and advanced MLOps  
-🎯 **My goal:** Build data systems so reliable, they become invisible
+**Local meets global:** Combining South African insights with cloud-scale infrastructure  
+**Passion-driven projects:** Built an F1 predictor merging hobbies with tech  
+**Serverless advocate:** If it can run without a server, I'm interested  
+**Healthcare AI:** Applying ML to medical imaging  
+**Fintech & Finance:** Leveraging financial management knowledge with ML for credit risk modeling  
+**Continuous learner:** Exploring real-time streaming and advanced MLOps  
+**My goal:** Build data systems so reliable, they become invisible
 
 ---
 ## 🤝 Let's Connect
