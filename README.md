@@ -10,14 +10,14 @@ I'm a **data engineer and machine learning specialist** based in Pretoria, South
 **What drives me:** Turning complex data challenges into elegant, automated solutions that create real business value—from fintech risk modeling to renewable energy optimization to aerospace engineering.
 
 ### Quick Stats
-- 🚀 **7+ production pipelines** processing 1.2M+ records/hour
-- ☁️ **AWS-certified** cloud architect specializing in serverless architectures
-- 🎯 **90%+ accuracy** ML models in production (including 17% efficiency gains in aerospace optimization)
-- ⚡ **500× speedup** achieved through ML surrogate modeling (aerospace & renewable energy)
-- 💰 **30-85% cost reduction** across multiple projects
-- ✅ **99.5% uptime** through robust monitoring and error handling
-- 🌬️ **5,900+ lines** of production code in renewable energy optimization
-- 🌍 **$150M+ potential value** from wind turbine optimization for 100-turbine farms
+- **7+ production pipelines** processing 1.2M+ records/hour
+- **AWS-certified** cloud architect specializing in serverless architectures
+- **90%+ accuracy** ML models in production (including 17% efficiency gains in aerospace optimization)
+- **500× speedup** achieved through ML surrogate modeling (aerospace & renewable energy)
+- **30-85% cost reduction** across multiple projects
+- **99.5% uptime** through robust monitoring and error handling
+- **5,900+ lines** of production code in renewable energy optimization
+- **$150M+ potential value** from wind turbine optimization for 100-turbine farms
 
 ---
 ## Latest Certifications & Education
@@ -57,7 +57,7 @@ skills = {
 ---
 ## Featured Projects
 
-### 🌬️ Wind Turbine Blade Optimizer ⭐ **NEW!**
+### Wind Turbine Blade Optimizer ⭐ **NEW!**
 *Renewable Energy | Machine Learning | Optimization | Sustainability*  
 **Production-ready ML system optimizing wind turbine blade designs for 5-15% energy production improvements**—accelerating the global transition to clean energy.
 
@@ -81,11 +81,11 @@ Impact = {
 ```
 
 **Real-World Impact (100-Turbine Wind Farm):**
-- 💰 **Additional Revenue:** $7.5M+ per year (@$50/MWh)
-- ⚡ **Extra Clean Energy:** 150,000 MWh annually
-- 🌱 **CO₂ Offset:** 75,000 tons/year
-- 💵 **20-Year Value:** $150M+
-- 📉 **LCOE Reduction:** 5-10%
+- **Additional Revenue:** $7.5M+ per year (@$50/MWh)
+- **Extra Clean Energy:** 150,000 MWh annually
+- **CO₂ Offset:** 75,000 tons/year
+- **20-Year Value:** $150M+
+- **LCOE Reduction:** 5-10%
 
 **Technical Deep Dive:**
 ```python
@@ -189,33 +189,33 @@ Results = {
 ```
 
 **Why This Matters:**
-- 🌍 **Climate Impact:** Direct contribution to renewable energy transition
-- 💡 **Innovation:** Demonstrates physics + ML integration for sustainability
-- 🏭 **Industry-Ready:** Production-quality code (5,900 lines), comprehensive testing
-- 📚 **Open Source:** MIT license, contributing to research community
-- 🎓 **Educational:** Complete pipeline from parameterization to deployment
-- 💼 **Economic Value:** Millions in additional revenue for wind farms
+- **Climate Impact:** Direct contribution to renewable energy transition
+- **Innovation:** Demonstrates physics + ML integration for sustainability
+- **Industry-Ready:** Production-quality code (5,900 lines), comprehensive testing
+- **Open Source:** MIT license, contributing to research community
+- **Educational:** Complete pipeline from parameterization to deployment
+- **Economic Value:** Millions in additional revenue for wind farms
 
 **Key Features:**
-- ✅ Interactive Streamlit dashboard (no-code interface for engineers)
-- ✅ Complete CLI pipeline for automation
-- ✅ Comprehensive documentation (README, API docs, troubleshooting)
-- ✅ Multi-platform support (Windows, Linux, macOS)
-- ✅ Deployable demo (Streamlit Cloud ready)
-- ✅ Uncertainty quantification via ensemble variance
-- ✅ Real-world validation against NREL 5MW baseline
+- Interactive Streamlit dashboard (no-code interface for engineers)
+- Complete CLI pipeline for automation
+- Comprehensive documentation (README, API docs, troubleshooting)
+- Multi-platform support (Windows, Linux, macOS)
+- Deployable demo (Streamlit Cloud ready)
+- Uncertainty quantification via ensemble variance
+- Real-world validation against NREL 5MW baseline
 
 **Tech Stack:**  
 Python • PyTorch • XGBoost • Scikit-learn • SciPy • NumPy • PyMOO • Streamlit • Plotly • h5py • Pandas
 
 **Interfaces:**  
-🖥️ Interactive Streamlit Dashboard | ⌨️ CLI Pipeline | 🐍 Python API
+Interactive Streamlit Dashboard | CLI Pipeline | Python API
 
 [View Project →](https://github.com/Letsapatiiso07/wind-turbine-optimizer) | [Live Demo →](#) | [Read Docs →](#)
 
 ---
 
-### ✈️ Airfoil Optimization System
+### Airfoil Optimization System
 *Aerospace Engineering | Machine Learning | CFD | Genetic Algorithms*  
 End-to-end ML system that automatically designs high-performance airfoils, achieving **10-25% efficiency improvements** over baseline NACA designs through intelligent optimization.
 
@@ -267,7 +267,7 @@ Optimized Design ← Analysis ← Genetic Algorithm ← Performance Prediction
 
 <img width="800" height="566" alt="Credit Risk Assessment Dashboard" src="https://github.com/user-attachments/assets/ce8ca65b-9a74-4d51-86e5-db629e13c904" />
 
-### 💳 Credit Risk Assessment Model
+### Credit Risk Assessment Model
 *Fintech | Machine Learning | Risk Modeling | XGBoost*  
 End-to-end machine learning system for predicting loan default risk using borrower financial and demographic data.  
 
@@ -300,7 +300,7 @@ End-to-end machine learning system for predicting loan default risk using borrow
 <img width="550" height="313" alt="Model Training" src="https://github.com/user-attachments/assets/bcafa742-6e43-4823-815c-ea58da1a3d61" />
 <img width="850" height="567" alt="Grad-CAM Visualization" src="https://github.com/user-attachments/assets/3a89b130-1871-4610-af2a-06c6da3e0f91" />
 
-### 🏥 Medical Image Analysis with Deep Learning
+### Medical Image Analysis with Deep Learning
 *Healthcare AI | Computer Vision | Transfer Learning*  
 A production-ready medical imaging classification system leveraging CNNs and transfer learning for diagnostic assistance.  
 
@@ -316,7 +316,7 @@ A production-ready medical imaging classification system leveraging CNNs and tra
 
 ---
 
-### 🏎️ F1 Race Winner Prediction System
+### F1 Race Winner Prediction System
 *Machine Learning | Sports Analytics | Feature Engineering*  
 End-to-end ML system predicting Formula 1 race outcomes with 90% accuracy.  
 
@@ -328,7 +328,7 @@ End-to-end ML system predicting Formula 1 race outcomes with 90% accuracy.
 
 ---
 
-### 💼 DataOps Studio
+### DataOps Studio
 *Interactive Dashboard | Modern UI | Real-time Monitoring*  
 A modern, interactive dashboard showcasing Data Engineering & MLOps capabilities.  
 
@@ -354,11 +354,11 @@ A modern, interactive dashboard showcasing Data Engineering & MLOps capabilities
 ## Engineering + Sustainability Portfolio
 
 My work demonstrates a unique combination:
-- 🌬️ **Renewable Energy:** Wind turbine optimization ($150M+ value potential)
-- ✈️ **Aerospace:** Airfoil design (17.4% efficiency gains)
-- 💳 **Fintech:** Credit risk modeling (0.945 AUC-ROC)
-- 🏥 **Healthcare:** Medical imaging AI
-- ⚡ **Green Tech:** Supporting global clean energy transition through ML
+- **Renewable Energy:** Wind turbine optimization ($150M+ value potential)
+- **Aerospace:** Airfoil design (17.4% efficiency gains)
+- **Fintech:** Credit risk modeling (0.945 AUC-ROC)
+- **Healthcare:** Medical imaging AI
+- **Green Tech:** Supporting global clean energy transition through ML
 
 **Common thread:** Physics-based simulation + Machine learning = Real-world impact
 
@@ -367,7 +367,7 @@ My work demonstrates a unique combination:
 I design cloud-native, serverless-first, and event-driven architectures for maximum scalability and cost efficiency:
 ```
 ┌─────────────────────┐ ┌──────────────────────┐ ┌─────────────────────┐
-│ 📊 Data Sources │───▶│ 🔄 Ingestion Layer │───▶│ 🏗️ Processing │
+│ Data Sources │───▶│ Ingestion Layer │───▶│ Processing │
 │                     │   │                      │   │                     │
 │ • REST/GraphQL APIs │   │ • AWS API Gateway    │   │ • AWS Lambda        │
 │ • IoT Sensors/MQTT  │   │ • Amazon Kinesis     │   │ • Step Functions    │
@@ -390,17 +390,17 @@ I design cloud-native, serverless-first, and event-driven architectures for maxi
 
 ---
 ## What Makes Me Tick
-🌍 **Local meets global:** Combining South African insights with cloud-scale infrastructure  
-🏎️ **Passion-driven projects:** Built an F1 predictor merging hobbies with tech  
-🔄 **Cross-domain expertise:** From aerospace to renewable energy to fintech risk modeling  
-🌱 **Sustainability champion:** Using ML to accelerate clean energy transition  
-☁️ **Serverless advocate:** If it can run without a server, I'm interested  
-🏥 **Healthcare AI:** Applying ML to medical imaging  
-💰 **Fintech & Finance:** Leveraging financial management knowledge with ML for credit risk  
-🔧 **Engineering + ML:** Bridging physics-based simulation with intelligent optimization  
-📚 **Open source contributor:** Sharing renewable energy tools with the research community  
-📈 **Continuous learner:** Always exploring new ways to apply AI to real-world challenges  
-🎯 **My goal:** Build data systems so reliable, they become invisible—while making the world greener
+**Local meets global:** Combining South African insights with cloud-scale infrastructure  
+**Passion-driven projects:** Built an F1 predictor merging hobbies with tech  
+**Cross-domain expertise:** From aerospace to renewable energy to fintech risk modeling  
+**Sustainability champion:** Using ML to accelerate clean energy transition  
+**Serverless advocate:** If it can run without a server, I'm interested  
+**Healthcare AI:** Applying ML to medical imaging  
+**Fintech & Finance:** Leveraging financial management knowledge with ML for credit risk  
+**Engineering + ML:** Bridging physics-based simulation with intelligent optimization  
+**Open source contributor:** Sharing renewable energy tools with the research community  
+**Continuous learner:** Always exploring new ways to apply AI to real-world challenges  
+**My goal:** Build data systems so reliable, they become invisible—while making the world greener
 
 ---
 ## Let's Connect
@@ -415,6 +415,6 @@ I'm always excited to collaborate on data engineering, ML, renewable energy, aer
 
 ---
 
-Built with passion for solving real-world challenges through intelligent automation and sustainable innovation 🌱⚡
+Built with passion for solving real-world challenges through intelligent automation and sustainable innovation.
 
-*P.S. My latest achievement: Wind Turbine Blade Optimizer—5,900 lines of production code, 500× speedup, $150M+ potential value. Demonstrating how ML can accelerate the renewable energy transition! 🌬️*
+*P.S. My latest achievement: Wind Turbine Blade Optimizer—5,900 lines of production code, 500× speedup, $150M+ potential value. Demonstrating how ML can accelerate the renewable energy transition!
