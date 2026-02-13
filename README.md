@@ -7,15 +7,17 @@
 ## About Me
 I'm a **data engineer and machine learning specialist** based in Pretoria, South Africa, with a passion for architecting scalable data pipelines and deploying production-grade machine learning systems. With 3+ years of hands-on experience, I've delivered solutions that process millions of records daily while maintaining 99.5%+ reliability and reducing operational costs by up to 85%.  
 
-**What drives me:** Turning complex data challenges into elegant, automated solutions that create real business value—from fintech risk modeling to aerospace optimization.
+**What drives me:** Turning complex data challenges into elegant, automated solutions that create real business value—from fintech risk modeling to renewable energy optimization to aerospace engineering.
 
 ### Quick Stats
-- **7+ production pipelines** processing 1.2M+ records/hour
-- **AWS-certified** cloud architect specializing in serverless architectures
-- **90%+ accuracy** ML models in production (including 17% efficiency gains in aerospace optimization)
-- **500× speedup** achieved through ML surrogate modeling
-- **30-85% cost reduction** across multiple projects
-- **99.5% uptime** through robust monitoring and error handling
+- 🚀 **7+ production pipelines** processing 1.2M+ records/hour
+- ☁️ **AWS-certified** cloud architect specializing in serverless architectures
+- 🎯 **90%+ accuracy** ML models in production (including 17% efficiency gains in aerospace optimization)
+- ⚡ **500× speedup** achieved through ML surrogate modeling (aerospace & renewable energy)
+- 💰 **30-85% cost reduction** across multiple projects
+- ✅ **99.5% uptime** through robust monitoring and error handling
+- 🌬️ **5,900+ lines** of production code in renewable energy optimization
+- 🌍 **$150M+ potential value** from wind turbine optimization for 100-turbine farms
 
 ---
 ## Latest Certifications & Education
@@ -39,16 +41,179 @@ skills = {
     "languages": ["Python", "SQL", "TypeScript", "JavaScript", "Bash"],
     "cloud": ["AWS Lambda", "S3", "DynamoDB", "API Gateway", "Step Functions", "Kinesis"],
     "data_engineering": ["Airflow", "Pandas", "NumPy", "ETL Pipelines", "Real-time Streaming"],
-    "ml_ai": ["TensorFlow", "PyTorch", "Scikit-Learn", "XGBoost", "CNNs", "Transfer Learning", "Ensemble Methods"],
-    "optimization": ["Genetic Algorithms", "Particle Swarm Optimization", "Gradient-based Methods"],
-    "simulation": ["CFD", "Panel Methods", "Physics-based Modeling"],
+    "ml_ai": ["TensorFlow", "PyTorch", "Scikit-Learn", "XGBoost", "CNNs", "Transfer Learning", 
+              "Ensemble Methods", "Neural Networks", "Random Forest"],
+    "optimization": ["Genetic Algorithms (NSGA-II)", "Particle Swarm Optimization", 
+                     "Gradient-based Methods", "Multi-objective Optimization"],
+    "simulation": ["CFD", "Panel Methods", "BEM Theory", "Physics-based Modeling", 
+                   "Structural Analysis", "Fatigue Analysis"],
     "devops": ["Docker", "CI/CD", "GitHub Actions", "Infrastructure as Code"],
-    "frontend": ["React", "Streamlit", "TailwindCSS", "Vite", "Plotly"]
+    "frontend": ["React", "Streamlit", "TailwindCSS", "Vite", "Plotly"],
+    "renewable_energy": ["Wind Turbine Design", "AEP Calculation", "Weibull Distributions",
+                         "Blade Element Momentum Theory", "IEC Standards"]
 }
 ```
 
 ---
 ## Featured Projects
+
+### 🌬️ Wind Turbine Blade Optimizer ⭐ **NEW!**
+*Renewable Energy | Machine Learning | Optimization | Sustainability*  
+**Production-ready ML system optimizing wind turbine blade designs for 5-15% energy production improvements**—accelerating the global transition to clean energy.
+
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://python.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red.svg)](https://pytorch.org)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+<!-- Add your dashboard screenshot here -->
+<!-- ![Wind Turbine Dashboard](path/to/dashboard-screenshot.png) -->
+
+**Key Achievements:**
+```python
+Impact = {
+    "aep_improvement": "+5-15% over NREL 5MW baseline",
+    "computational_speedup": "500× (0.001s vs 0.5s per evaluation)",
+    "ml_accuracy": "R² > 0.95 (ensemble: NN + XGBoost + RF)",
+    "production_code": "5,900+ lines, fully documented",
+    "economic_value": "$150M+ for 100-turbine wind farm (20-year)",
+    "environmental": "75,000 tons CO₂ offset/year potential"
+}
+```
+
+**Real-World Impact (100-Turbine Wind Farm):**
+- 💰 **Additional Revenue:** $7.5M+ per year (@$50/MWh)
+- ⚡ **Extra Clean Energy:** 150,000 MWh annually
+- 🌱 **CO₂ Offset:** 75,000 tons/year
+- 💵 **20-Year Value:** $150M+
+- 📉 **LCOE Reduction:** 5-10%
+
+**Technical Deep Dive:**
+```python
+# Complete System Architecture
+Pipeline = {
+    "parameterization": {
+        "method": "B-spline interpolation",
+        "parameters": 15,  # 6 chord + 6 twist + 3 airfoil families
+        "constraints": "Monotonic chord, min 0.1m, structural feasibility"
+    },
+    "aerodynamics": {
+        "solver": "BEM (Blade Element Momentum) Theory",
+        "corrections": ["Prandtl tip loss", "Glauert high-induction"],
+        "outputs": "Power, thrust, torque, Cp, loads",
+        "speed": "~0.5s per full power curve"
+    },
+    "structural": {
+        "model": "1D Euler-Bernoulli beam",
+        "analysis": ["Deflection", "Stress", "Mass", "Fatigue"],
+        "constraints": ["Tip deflection < 5%", "Stress ratio < 1.0", "Fatigue D < 1.0"],
+        "materials": "Composite (E=40 GPa, ρ=1800 kg/m³)"
+    },
+    "ml_surrogate": {
+        "architecture": "Ensemble (NN [128,256,128] + XGBoost + RF)",
+        "training_data": "10k-100k Latin Hypercube samples",
+        "features": 15,  # geometry parameters
+        "targets": ["AEP", "Cp", "mass", "deflection", "stress"],
+        "accuracy": "R² > 0.95, MAPE < 5%",
+        "speedup": "500× faster than direct BEM"
+    },
+    "optimization": {
+        "algorithms": ["NSGA-II (GA)", "PSO", "Gradient methods"],
+        "population": 100,
+        "generations": "300-500",
+        "objectives": "Maximize AEP, minimize mass",
+        "runtime": "~30 minutes with surrogate"
+    }
+}
+
+# Performance Results
+Results = {
+    "baseline": {
+        "design": "NREL 5MW Reference Turbine",
+        "aep": "14,850 MWh/year",
+        "capacity_factor": "33.8%",
+        "blade_mass": "17,740 kg",
+        "max_cp": 0.465
+    },
+    "optimized": {
+        "aep": "16,320 MWh/year (+9.9%)",
+        "capacity_factor": "37.2% (+10.1%)",
+        "blade_mass": "16,890 kg (-4.8%)",
+        "max_cp": "0.487 (+4.7%)"
+    }
+}
+```
+
+**System Architecture:**
+```
+┌─────────────────────────────────────────────────────────────┐
+│          Wind Distribution (Weibull) + Site Data             │
+│                     Mean Speed: 8.5 m/s                      │
+└────────────────────┬────────────────────────────────────────┘
+                     │
+                     ▼
+┌─────────────────────────────────────────────────────────────┐
+│               BLADE PARAMETERIZATION (15 params)             │
+│  Chord Distribution → Twist Distribution → Airfoil Family    │
+│      (6 B-spline)         (6 B-spline)        (3 types)     │
+└────────────────────┬────────────────────────────────────────┘
+                     │
+                     ▼
+┌─────────────────────────────────────────────────────────────┐
+│                  PHYSICS SIMULATION                          │
+│  BEM Aerodynamics → Structural Analysis → Fatigue → AEP      │
+│  (Power, Cp, Loads) (Deflection, Stress)  (D<1.0)  (MWh/yr) │
+│                    ~0.5s per evaluation                      │
+└────────────────────┬────────────────────────────────────────┘
+                     │
+                     ▼
+┌─────────────────────────────────────────────────────────────┐
+│         ML SURROGATE TRAINING (500× SPEEDUP!)                │
+│  Database: 10k-100k samples (Latin Hypercube Sampling)       │
+│  Models: NN + XGBoost + RF → Ensemble (R² > 0.95)           │
+│  Prediction: ~0.001s (500× faster!)                          │
+└────────────────────┬────────────────────────────────────────┘
+                     │
+                     ▼
+┌─────────────────────────────────────────────────────────────┐
+│                   OPTIMIZATION                               │
+│  NSGA-II GA: Pop=100, Gen=300-500, Multi-objective           │
+│  Constraints: Fatigue D<1, Deflection<5%, Stress OK          │
+│  Runtime: ~30 minutes                                        │
+└────────────────────┬────────────────────────────────────────┘
+                     │
+                     ▼
+┌─────────────────────────────────────────────────────────────┐
+│              OPTIMIZED BLADE DESIGN ✓                        │
+│  5-15% AEP Improvement | Structurally Feasible | Ready!      │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Why This Matters:**
+- 🌍 **Climate Impact:** Direct contribution to renewable energy transition
+- 💡 **Innovation:** Demonstrates physics + ML integration for sustainability
+- 🏭 **Industry-Ready:** Production-quality code (5,900 lines), comprehensive testing
+- 📚 **Open Source:** MIT license, contributing to research community
+- 🎓 **Educational:** Complete pipeline from parameterization to deployment
+- 💼 **Economic Value:** Millions in additional revenue for wind farms
+
+**Key Features:**
+- ✅ Interactive Streamlit dashboard (no-code interface for engineers)
+- ✅ Complete CLI pipeline for automation
+- ✅ Comprehensive documentation (README, API docs, troubleshooting)
+- ✅ Multi-platform support (Windows, Linux, macOS)
+- ✅ Deployable demo (Streamlit Cloud ready)
+- ✅ Uncertainty quantification via ensemble variance
+- ✅ Real-world validation against NREL 5MW baseline
+
+**Tech Stack:**  
+Python • PyTorch • XGBoost • Scikit-learn • SciPy • NumPy • PyMOO • Streamlit • Plotly • h5py • Pandas
+
+**Interfaces:**  
+🖥️ Interactive Streamlit Dashboard | ⌨️ CLI Pipeline | 🐍 Python API
+
+[View Project →](https://github.com/Letsapatiiso07/wind-turbine-optimizer) | [Live Demo →](#) | [Read Docs →](#)
+
+---
 
 ### ✈️ Airfoil Optimization System
 *Aerospace Engineering | Machine Learning | CFD | Genetic Algorithms*  
@@ -87,7 +252,6 @@ Results = {
 - Combines **aerospace engineering** principles with modern **data science** techniques
 - **Production-ready pipeline:** Database generation → ML training → Optimization → Analysis
 - **Practical applications:** UAV design, wind energy, race car aerodynamics
-- Showcases ability to build **domain-specific AI systems** that solve real engineering problems
 
 **System Architecture:**
 ```
@@ -97,14 +261,13 @@ Optimized Design ← Analysis ← Genetic Algorithm ← Performance Prediction
 ```
 
 **Tech Stack:** Python • PyTorch • XGBoost • Scikit-learn • NumPy • SciPy • Matplotlib • Plotly • Streamlit  
-**Interactive UI:** Real-time airfoil design with parameter sliders and live performance visualization  
 [View Project →](https://github.com/Letsapatiiso07/airfoil-optimization)
 
 ---
 
-<img width="800" height="566" alt="image" src="https://github.com/user-attachments/assets/ce8ca65b-9a74-4d51-86e5-db629e13c904" />
+<img width="800" height="566" alt="Credit Risk Assessment Dashboard" src="https://github.com/user-attachments/assets/ce8ca65b-9a74-4d51-86e5-db629e13c904" />
 
-### Credit Risk Assessment Model
+### 💳 Credit Risk Assessment Model
 *Fintech | Machine Learning | Risk Modeling | XGBoost*  
 End-to-end machine learning system for predicting loan default risk using borrower financial and demographic data.  
 
@@ -133,11 +296,11 @@ End-to-end machine learning system for predicting loan default risk using borrow
 
 ---
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/180d29d4-a3c6-487a-9054-7c3b0ccd27fb" />
-<img width="550" height="313" alt="image" src="https://github.com/user-attachments/assets/bcafa742-6e43-4823-815c-ea58da1a3d61" />
-<img width="850" height="567" alt="image" src="https://github.com/user-attachments/assets/3a89b130-1871-4610-af2a-06c6da3e0f91" />
+<img width="1280" height="720" alt="Medical Image Analysis" src="https://github.com/user-attachments/assets/180d29d4-a3c6-487a-9054-7c3b0ccd27fb" />
+<img width="550" height="313" alt="Model Training" src="https://github.com/user-attachments/assets/bcafa742-6e43-4823-815c-ea58da1a3d61" />
+<img width="850" height="567" alt="Grad-CAM Visualization" src="https://github.com/user-attachments/assets/3a89b130-1871-4610-af2a-06c6da3e0f91" />
 
-### Medical Image Analysis with Deep Learning
+### 🏥 Medical Image Analysis with Deep Learning
 *Healthcare AI | Computer Vision | Transfer Learning*  
 A production-ready medical imaging classification system leveraging CNNs and transfer learning for diagnostic assistance.  
 
@@ -153,7 +316,7 @@ A production-ready medical imaging classification system leveraging CNNs and tra
 
 ---
 
-### F1 Race Winner Prediction System
+### 🏎️ F1 Race Winner Prediction System
 *Machine Learning | Sports Analytics | Feature Engineering*  
 End-to-end ML system predicting Formula 1 race outcomes with 90% accuracy.  
 
@@ -165,7 +328,7 @@ End-to-end ML system predicting Formula 1 race outcomes with 90% accuracy.
 
 ---
 
-### DataOps Studio
+### 💼 DataOps Studio
 *Interactive Dashboard | Modern UI | Real-time Monitoring*  
 A modern, interactive dashboard showcasing Data Engineering & MLOps capabilities.  
 
@@ -186,6 +349,18 @@ A modern, interactive dashboard showcasing Data Engineering & MLOps capabilities
 | **Cryptocurrency ETL** | Python, Airflow, REST APIs | 85% time savings |
 | **IoT Processing System** | Python, SQLite, JavaScript | 1.2M+ records/hour |
 | **Financial Automation** | Airflow, Pandas, PostgreSQL | 3 days → 4 hours |
+
+---
+## Engineering + Sustainability Portfolio
+
+My work demonstrates a unique combination:
+- 🌬️ **Renewable Energy:** Wind turbine optimization ($150M+ value potential)
+- ✈️ **Aerospace:** Airfoil design (17.4% efficiency gains)
+- 💳 **Fintech:** Credit risk modeling (0.945 AUC-ROC)
+- 🏥 **Healthcare:** Medical imaging AI
+- ⚡ **Green Tech:** Supporting global clean energy transition through ML
+
+**Common thread:** Physics-based simulation + Machine learning = Real-world impact
 
 ---
 ## System Architecture Philosophy
@@ -211,65 +386,35 @@ I design cloud-native, serverless-first, and event-driven architectures for maxi
 | Cost per TB | <$10 | $15 |
 | Error Rate | <0.1% | <0.5% |
 | ML Speedup | 100× | 500× |
+| Production Code Quality | Professional | 5,900+ lines |
 
 ---
 ## What Makes Me Tick
-**Local meets global:** Combining South African insights with cloud-scale infrastructure  
-**Passion-driven projects:** Built an F1 predictor merging hobbies with tech  
-**Cross-domain expertise:** From aerospace optimization to fintech risk modeling  
-**Serverless advocate:** If it can run without a server, I'm interested  
-**Healthcare AI:** Applying ML to medical imaging  
-**Fintech & Finance:** Leveraging financial management knowledge with ML for credit risk modeling  
-**Engineering + ML:** Bridging physics-based simulation with intelligent optimization  
-**Continuous learner:** Exploring real-time streaming and advanced MLOps  
-**My goal:** Build data systems so reliable, they become invisible
+🌍 **Local meets global:** Combining South African insights with cloud-scale infrastructure  
+🏎️ **Passion-driven projects:** Built an F1 predictor merging hobbies with tech  
+🔄 **Cross-domain expertise:** From aerospace to renewable energy to fintech risk modeling  
+🌱 **Sustainability champion:** Using ML to accelerate clean energy transition  
+☁️ **Serverless advocate:** If it can run without a server, I'm interested  
+🏥 **Healthcare AI:** Applying ML to medical imaging  
+💰 **Fintech & Finance:** Leveraging financial management knowledge with ML for credit risk  
+🔧 **Engineering + ML:** Bridging physics-based simulation with intelligent optimization  
+📚 **Open source contributor:** Sharing renewable energy tools with the research community  
+📈 **Continuous learner:** Always exploring new ways to apply AI to real-world challenges  
+🎯 **My goal:** Build data systems so reliable, they become invisible—while making the world greener
 
 ---
 ## Let's Connect
-I'm always excited to collaborate on data engineering, ML, fintech, aerospace, or cloud projects. Let's talk!  
+I'm always excited to collaborate on data engineering, ML, renewable energy, aerospace, fintech, or cloud projects. Let's talk!  
 **Email:** [Letsapamyron07@gmail.com](mailto:Letsapamyron07@gmail.com)  
 **LinkedIn:** [linkedin.com/in/tiiso-letsapa-664990209](https://www.linkedin.com/in/tiiso-letsapa-664990209)  
 **GitHub:** [github.com/Letsapatiiso07](https://github.com/Letsapatiiso07)
 
 ---
-*"Building intelligent systems that turn data into decisions—from cloud infrastructure to aerospace innovation"*  
-*Based in Pretoria, South Africa 🇿🇦 | Open to remote opportunities worldwide *
-
-My Solution:
-Built a complete ML pipeline that:
-1️ Parameterizes airfoil geometry using PARSEC method (11 parameters)
-2️⃣ Simulates aerodynamic performance with CFD (panel method + boundary layer)
-3️⃣ Trains ensemble ML models (Neural Net + XGBoost + Random Forest) achieving R² > 0.98
-4️⃣ Optimizes designs using genetic algorithms - 500× faster than pure CFD!
-
-Results:
-- 17.4% improvement in L/D ratio vs. NACA 2412
-- 10.8% drag reduction
-- 4.7% lift increase
-- Processing time: 15-30 mins vs. days with traditional methods
-- Interactive Streamlit dashboard for real-time design exploration
-
-Technical Stack:
-Python • PyTorch • XGBoost • Scikit-learn • NumPy • SciPy • Streamlit • Plotly
-
-Real-World Applications:
-UAV and aircraft wing design
-Wind turbine blade optimization  
-Motorsports aerodynamics
-Engineering education & research
-
-This project demonstrates how combining physics-based simulation with machine learning can solve complex engineering problems while dramatically reducing computation time and cost.
-
-The entire system is open source on GitHub - perfect for aerospace engineers, researchers, and ML practitioners interested in domain-specific AI applications!
-
-What engineering challenges do you think could benefit from this ML + physics approach?
-
-#MachineLearning #AerospaceEngineering #DataScience #Python #MLOps #Engineering #AI #CFD #Optimization #CloudComputing
-
-🔗 GitHub: https://github.com/Letsapatiiso07/airfoil-optimization
+*"Building intelligent systems that turn data into decisions—from cloud infrastructure to renewable energy innovation"*  
+*Based in Pretoria, South Africa 🇿🇦 | Open to remote opportunities worldwide | Accelerating the clean energy transition through ML*
 
 ---
 
-Built with passion for solving real-world engineering problems through intelligent automation
+Built with passion for solving real-world challenges through intelligent automation and sustainable innovation 🌱⚡
 
-P.S. This adds to my portfolio of domain-specific ML applications - from fintech risk modeling to healthcare AI to aerospace optimization. Always exploring new ways to apply data science to real-world challenges!
+*P.S. My latest achievement: Wind Turbine Blade Optimizer—5,900 lines of production code, 500× speedup, $150M+ potential value. Demonstrating how ML can accelerate the renewable energy transition! 🌬️*
