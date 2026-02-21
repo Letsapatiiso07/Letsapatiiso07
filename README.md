@@ -5,7 +5,7 @@
 
 ---
 ## About Me
-I'm a **data engineer and machine learning specialist** based in Pretoria, South Africa, with a passion for architecting scalable data pipelines and deploying production-grade machine learning systems. With 3+ years of hands-on experience, I've delivered solutions that process millions of records daily while maintaining 99.5%+ reliability and reducing operational costs by up to 85%.  
+I'm a **data engineer and machine learning specialist** based in Pretoria, South Africa, with a passion for architecting scalable data pipelines and deploying production-grade machine learning systems. With 4+ years of hands-on experience, I've delivered solutions that process millions of records daily while maintaining 99.5%+ reliability and reducing operational costs by up to 85%.  
 
 **What drives me:** Turning complex data challenges into elegant, automated solutions that create real business value—from fintech risk modeling to renewable energy optimization to aerospace engineering.
 
