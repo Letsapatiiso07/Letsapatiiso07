@@ -77,10 +77,6 @@ skills = {
 
 > A fully local, end-to-end AI system that uses satellite imagery and machine learning to analyze South African open-pit mining sites — detecting mine boundaries, monitoring vegetation loss, and forecasting mineral production. No cloud required. Runs entirely on your machine.
 
-<img width="800" height="450" alt="SA Mining Site Analyzer - Interactive Dashboard Map" src="https://github.com/user-attachments/assets/REPLACE_WITH_YOUR_DASHBOARD_SCREENSHOT" />
-<img width="800" height="400" alt="SA Mining Site Analyzer - Segmentation Overlay" src="https://github.com/user-attachments/assets/REPLACE_WITH_YOUR_SEGMENTATION_SCREENSHOT" />
-<img width="800" height="400" alt="SA Mining Site Analyzer - NDVI Trend Chart" src="https://github.com/user-attachments/assets/REPLACE_WITH_YOUR_NDVI_SCREENSHOT" />
-
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
