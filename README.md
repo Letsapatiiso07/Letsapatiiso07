@@ -45,6 +45,7 @@ I'm a data engineer and machine learning specialist based in Pretoria, South Afr
 | Azure Solutions Architect | Microsoft | 2025 |
 | Azure AI Engineer Associate | Microsoft | 2025 |
 | Azure Data Scientist Associate | Microsoft | 2025 |
+| Fabric Data Engineer Associate | Microsoft | 2026 |
 
 ---
 
