@@ -42,35 +42,35 @@ A Lambda function on a 15-minute schedule pulls the weather for four South Afric
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Letsapatiiso07/realtime-iot-etl-pipeline"><b>Real-Time IoT ETL Pipeline</b></a><br>
-<a href="https://github.com/Letsapatiiso07/realtime-iot-etl-pipeline"><img src="https://raw.githubusercontent.com/Letsapatiiso07/realtime-iot-etl-pipeline/main/docs/dashboard.png" alt="Live dashboard of sensor readings and anomalies"></a><br>
-Stream-style ETL in plain Python: six simulated sensors, anomaly flags from a rolling z-score, SQLite storage and a live web dashboard.<br>
-<sub>Python standard library · SQLite · threads and queues</sub>
+<a href="https://github.com/Letsapatiiso07/mining_analyzer"><b>Mine Sites from Sentinel-2</b></a><br>
+<a href="https://github.com/Letsapatiiso07/mining_analyzer"><img src="https://raw.githubusercontent.com/Letsapatiiso07/mining_analyzer/main/docs/Tharisa_Platinum_change.png" alt="Tharisa mine in 2017 and 2026 from Sentinel-2, with bare ground change"></a><br>
+Tracks bare ground at five South African mine sites from free Sentinel-2 images, 2017 to 2026. At the Tharisa platinum mine it grew from 7.9 to 9.8 km².<br>
+<sub>Python · rasterio · STAC · Streamlit</sub>
 </td>
-<td width="50%" valign="top">
-<a href="https://github.com/Letsapatiiso07/dataops-studio"><b>DataOps Studio</b></a><br>
-<a href="https://github.com/Letsapatiiso07/dataops-studio"><img src="https://raw.githubusercontent.com/Letsapatiiso07/dataops-studio/main/docs/dashboard.png" alt="Dashboard with pipeline latency, dataset size and model success charts"></a><br>
-A front-end prototype of a data team dashboard: pipeline runs, a searchable dataset catalog and a model registry, on sample data.<br>
-<sub>React · TypeScript · Tailwind CSS · Recharts</sub>
-</td>
-</tr>
-</table>
-
-## Engineering and ML projects
-
-<table>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/Letsapatiiso07/wind-turbine-optimizer"><b>Wind Turbine Blade Optimiser</b></a><br>
 <a href="https://github.com/Letsapatiiso07/wind-turbine-optimizer"><img src="https://raw.githubusercontent.com/Letsapatiiso07/wind-turbine-optimizer/main/docs/baseline_vs_reference.png" alt="BEM model of the NREL 5 MW turbine against NREL reference power, Cp and thrust curves"></a><br>
 A blade element momentum model of the NREL 5 MW turbine that matches NREL's published yearly energy within 0.6%, then reshapes the blade within load limits for a measured gain of 0.44%.<br>
 <sub>Python · SciPy · PyTorch · pymoo · Streamlit</sub>
 </td>
+</tr>
+</table>
+
+## More highlights
+
+<table>
+<tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Letsapatiiso07/mining_analyzer"><b>Mine Sites from Sentinel-2</b></a><br>
-<a href="https://github.com/Letsapatiiso07/mining_analyzer"><img src="https://raw.githubusercontent.com/Letsapatiiso07/mining_analyzer/main/docs/Tharisa_Platinum_change.png" alt="Tharisa mine in 2017 and 2026 from Sentinel-2, with bare ground change"></a><br>
-Tracks bare ground at five South African mine sites from free Sentinel-2 images, 2017 to 2026. At the Tharisa platinum mine it grew from 7.9 to 9.8 km².<br>
-<sub>Python · rasterio · STAC · Streamlit</sub>
+<a href="https://github.com/Letsapatiiso07/dataops-studio"><b>DataOps Studio</b></a><br>
+<a href="https://github.com/Letsapatiiso07/dataops-studio"><img src="https://raw.githubusercontent.com/Letsapatiiso07/dataops-studio/main/docs/dashboard.png" alt="Dashboard with pipeline latency, dataset size and model success charts"></a><br>
+A front-end prototype of a data team dashboard: pipeline runs, a searchable dataset catalog and a model registry, on sample data.<br>
+<sub>React · TypeScript · Tailwind CSS · Recharts</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Letsapatiiso07/realtime-iot-etl-pipeline"><b>Real-Time IoT ETL Pipeline</b></a><br>
+<a href="https://github.com/Letsapatiiso07/realtime-iot-etl-pipeline"><img src="https://raw.githubusercontent.com/Letsapatiiso07/realtime-iot-etl-pipeline/main/docs/dashboard.png" alt="Live dashboard of sensor readings and anomalies"></a><br>
+Stream-style ETL in plain Python: six simulated sensors, anomaly flags from a rolling z-score, SQLite storage and a live web dashboard.<br>
+<sub>Python standard library · SQLite · threads and queues</sub>
 </td>
 </tr>
 <tr>
