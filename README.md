@@ -15,9 +15,9 @@ how to run the code, and what it does not do yet.
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/Letsapatiiso07/Radiosurgery-Dose-Explorer"><b>Radiosurgery Dose Explorer</b></a><br>
-<a href="https://github.com/Letsapatiiso07/Radiosurgery-Dose-Explorer"><img src="https://raw.githubusercontent.com/Letsapatiiso07/Radiosurgery-Dose-Explorer/main/results/example_slice.png" alt="MRI slice with the tumour, cochlea and dose lines of a Gamma Knife plan"></a><br>
-Measures 59 real Gamma Knife plans for a brain tumour from their 3D dose: tumour coverage (median 93%), conformity, dose to the hearing organ, and the effect of small positioning errors.<br>
-<sub>Python · pydicom · NumPy · SciPy · <a href="https://letsapatiiso07.github.io/Radiosurgery-Dose-Explorer/">live viewer</a></sub>
+<a href="https://github.com/Letsapatiiso07/Radiosurgery-Dose-Explorer"><img src="https://raw.githubusercontent.com/Letsapatiiso07/Radiosurgery-Dose-Explorer/main/results/segmentation_cases.png" alt="The doctors' tumour outline and the AI's outline on three MRI scans of test patients"></a><br>
+A 3D U-Net that outlines a brain tumour on MRI, scoring a Dice of 0.934 against the doctors' outlines on 60 patients it never saw. It also measures 59 real Gamma Knife plans from their 3D dose and predicts the hearing organ's dose with machine learning.<br>
+<sub>Python · PyTorch · pydicom · SciPy · scikit-learn · <a href="https://letsapatiiso07.github.io/Radiosurgery-Dose-Explorer/">live viewer</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/Letsapatiiso07/Credit-Risk-Assessment"><b>Credit Risk Assessment</b></a><br>
